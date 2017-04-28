@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_a26ba5babc2df003a22936630ebb4defaa3570fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_076ed36200bcd6a5c0cdf43a3e6b118494768358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_14a97295e8452cb38ee7eca3d09ad59e24955215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_e1abb851380e1905d74cb79c9891e6d3aaab558a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="248bae146ee9c02c1efe076a535aec97eb56fbf8">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8432554be4a62da8ae8770a937043c35ca35c1f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3723bfe5a820a42bc0b773736b00ca1f5fbc3080">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_629955dd277ffc493a86410b89400b58078756e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_858d2a092c080461787bb614b51423da2b71ba16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9999510e14cebd217a9d728081a96039023e96ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_c769c49d83be17ffd1abccd7c48241f3b696f602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_f27a289de0b38b1d35de04a29ff48626da60c2f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_6b0a3b855120a477d4e1180dcffcecbffd631d18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacitySingleScreenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_99188fd9b9ce18583f88b6c5b9c02db912d668e7/classes.dex" />
+    </item>
+
+</items>

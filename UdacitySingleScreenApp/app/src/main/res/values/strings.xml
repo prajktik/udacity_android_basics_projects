@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UdacitySingleScreenApp</string>
+
+    <string name="title">"Arthur's Cafe"</string>
+    <string name="cuisine">Italian, Continental</string>
+    <string name="hours">Opening Hours: 12 Noon to 11 pm</string>
+    <string name="call">Call</string>
+    <string name="number">(201) 354-1826</string>
+    <string name="type">Type</string>
+    <string name="type_value">Fine Dining</string>
+    <string name="website">Website</string>
+    <string name="web_address">www.arthurscafe.com</string>
+    <string name="address">Address</string>
+    <string name="address_value">348 Palisade Ave, Jersey City, NJ 07307</string>
+    <string name="delivery">Delivery</string>
+    <string name="bar">Full Bar Available</string>
+    <string name="music">Live Music</string>
+    <string name="outdoor">Outdoor Seating</string>
+    <string name="wifi">WiFi</string>
+    <string name="photo">Photo</string>
+</resources>
