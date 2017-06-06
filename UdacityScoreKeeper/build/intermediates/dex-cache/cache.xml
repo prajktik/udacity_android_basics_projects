@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_405820f48edff02c235f49d3563e786c86101b55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acd9b0829bf0828d356cb32b0cf3a786cf48a7f7">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c21fc06e1b310ea52d39ddcf7e4e5a3d10541fb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_28a155d574921ec1daa6ea2871ec5405e88bb351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_d2bf215f0fe6a6fbbbeaa965cd4be72f1c53f6dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be2877d5e149d8949ea901ce82bf6c60d9fa83b">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7c47ebcd59043619c8202d6a34246a148ddfd2f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9999510e14cebd217a9d728081a96039023e96ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_07e3870ad5b5406c1edb376e02a8e9feee8c45d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_825abaad050388c8462b3d17c89266d8d36e25fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_971fb50cc31340b7dc0525bb2ca68dab0393beb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_a99ae9e946ba5d8f310670de35c0a213f50419c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_6986b991d44e4f7d0502b2fb58c9cec12453a66c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/santoshchavan/AndroidStudioProjects/UdacityScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_d759aa56b3168724a12f5bf876673cbad2570ecd/classes.dex" />
+    </item>
+
+</items>
