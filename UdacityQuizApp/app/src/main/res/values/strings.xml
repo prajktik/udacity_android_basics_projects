@@ -1,0 +1,61 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UdacityQuizApp</string>
+    <string name="title">English Grammar Quiz</string>
+    <string name="question1">1. Did you really understand all ____ he said?</string>
+    <string name="what">what</string>
+    <string name="when">when</string>
+    <string name="which">which</string>
+    <string name="that">that</string>
+
+    <string name="question2">
+        2. I can\'t imagine any reason ____ he should have behaved in such an extraordinary way.
+    </string>
+    <string name="r_for">for</string>
+    <string name="why">why</string>
+    <string name="how">how</string>
+
+
+    <string name="question3">
+        3. I can reassure you that everything ____ as quickly as possible.
+    </string>
+    <string name="q3_will_be_dealt">will be dealt</string>
+    <string name="q3_will_deal_with">will deal with</string>
+    <string name="q3_will_deal">will deal</string>
+    <string name="q3_will_be_dealt_with">will be dealt with</string>
+
+    <string name="question4">4. Which of the following are prepositions?</string>
+    <string name="toward">toward</string>
+    <string name= "above">above</string>
+    <string name= "there">there</string>
+
+    <string name="question5">
+        5. Which of the following are adverbs?
+    </string>
+    <string name="quite">quite</string>
+    <string name="then">then</string>
+    <string name="quiet">quiet</string>
+    <string name="gently">gently</string>
+
+
+    <string name="question6">6. Use a proper article - a, an, the</string>
+    <string name="q6_part1">She has </string>
+    <string name="q6_part2">interesting job.</string>
+
+    <string name="question7">
+       7. Fill in the blank in below sentence with a pronoun that fits the best. (which, who, that)
+    </string>
+    <string name="q7_part1">He is the man </string>
+    <string name="q7_part2">swam the channel.</string>
+    <string name="submit">   Submit   </string>
+
+    <string name="q6_answer">an</string>
+    <string name="q7_answer">who</string>
+
+    <string name="toast">Please attempt all the questions.</string>
+    <string name="result">Score :
+        "<xliff:g id="correct" example="5">%d</xliff:g>" /
+        <xliff:g id="total" example="7">%d</xliff:g>
+    </string>
+
+
+</resources>
