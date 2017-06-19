@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <merge>
+        <TextView
+            android:id="@+id/tv_question_1"
+            android:text="@string/question1"
+            style="@style/QuestionTextStyle"
+            />
+
+        <RadioGroup
+            android:id="@+id/rg_q1"
+            style="@style/GroupStyle"
+            >
+            <RadioButton
+                android:id="@+id/rb_q1_what"
+                android:text="@string/what"
+                style="@style/OptionsStyle"
+                />
+            <RadioButton
+                android:id="@+id/rb_q1_when"
+                android:text="@string/when"
+                style="@style/OptionsStyle"
+                />
+            <RadioButton
+                android:id="@+id/rb_q1_that_answer"
+                android:text="@string/that"
+                style="@style/OptionsStyle"
+                />
+            <RadioButton
+                android:id="@+id/rb_q1_which"
+                android:text="@string/which"
+                style="@style/OptionsStyle"
+                />
+        </RadioGroup>
+
+    </merge>
+</layout>

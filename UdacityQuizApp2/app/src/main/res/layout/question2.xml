@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <merge>
+        <TextView
+            android:id="@+id/tv_question_2"
+            android:text="@string/question2"
+            style="@style/QuestionTextStyle"
+            />
+
+        <RadioGroup
+            android:id="@+id/rg_q2"
+            style="@style/GroupStyle"
+            >
+            <RadioButton
+                android:id="@+id/rb_q2_why_answer"
+                android:text="@string/why"
+                style="@style/OptionsStyle"
+                />
+            <RadioButton
+                android:id="@+id/rb_q2_for"
+                android:text="@string/r_for"
+                style="@style/OptionsStyle"
+                />
+            <RadioButton
+                android:id="@+id/rb_q2_that"
+                android:text="@string/that"
+                style="@style/OptionsStyle"
+                />
+            <RadioButton
+                android:id="@+id/rb_q2_how"
+                android:text="@string/how"
+                style="@style/OptionsStyle"
+                />
+        </RadioGroup>
+
+
+
+
+    </merge>
+</layout>
